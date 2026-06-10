@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #7daa8f;
+    background: #324d3c;
     color: #e0c3fc;
     padding: 20px;
 }
@@ -11,7 +11,7 @@ header {
 }
 
 #game-title {
-    color: #3a185a;
+    color: #b7b45b;
     margin-bottom: 10px;
     font-size: 2rem;
 }
@@ -38,7 +38,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: stretch;
-    background: #dbeafe;
+    background: #76b081;
     width: min(100%, 640px);
     max-width: 640px;
     margin: 0 auto;
@@ -50,7 +50,7 @@ header {
 }
 
 #question-number {
-    color: #3b82f6;
+    color: #0f1c32;
     font-weight: 600;
 }
 
